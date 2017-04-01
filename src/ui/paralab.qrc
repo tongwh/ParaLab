@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/fGL2_checkerboard.frag</file>
+        <file>shaders/fGL2_contours.frag</file>
+        <file>shaders/fGL2_Golden.frag</file>
+        <file>shaders/fGL2_Phong1.frag</file>
+        <file>shaders/fGL2_toons.frag</file>
+        <file>shaders/vGL2_checkerboard.vert</file>
+        <file>shaders/vGL2_contours.vert</file>
+        <file>shaders/vGL2_Golden.vert</file>
+        <file>shaders/vGL2_Phong1.vert</file>
+        <file>shaders/vGL2_toons.vert</file>
+    </qresource>
+</RCC>
